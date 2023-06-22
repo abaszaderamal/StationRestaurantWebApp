@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace StationRestaurant.Areas.AdminRezerv.Controllers
 {
     [Area("AdminRezerv")]
-    //[Authorize]
+    [Authorize]
     public class DashBoardController : Controller
     {
         private readonly IUnitOfWorkService _unitOfWorkService;

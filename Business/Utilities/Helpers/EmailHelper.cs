@@ -8,7 +8,7 @@ namespace Business.Utilities.Helpers
         public static bool SendEmail(string userEmail, string content, string subject)
         {
             MailMessage mailMessage = new MailMessage();
-            mailMessage.From = new MailAddress("hcavid386@gmail.com");
+            mailMessage.From = new MailAddress("abbaszade.ramal007@gmail.com");
             mailMessage.To.Add(new MailAddress(userEmail));
 
             mailMessage.Subject = subject;
@@ -16,11 +16,11 @@ namespace Business.Utilities.Helpers
             mailMessage.Body = content;
 
             SmtpClient client = new SmtpClient();
-            client.Credentials = new System.Net.NetworkCredential("hcavid386@gmail.com", "tdmaxhwsnjivqrup");
-            client.Host = "smtp.gmail.com";
+            client.Credentials = new System.Net.NetworkCredential("abbaszade.ramal007@gmail.com", "vihapusvyhqpdfxo");
+            client.Host = "smtp.gmail.com"; 
             client.Port = 587;
             client.EnableSsl = true;
-
+                
             try
             {
                 client.Send(mailMessage);
