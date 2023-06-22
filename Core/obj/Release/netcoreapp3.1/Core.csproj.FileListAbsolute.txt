@@ -1,0 +1,10 @@
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\bin\Release\netcoreapp3.1\Core.deps.json
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\bin\Release\netcoreapp3.1\Core.dll
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\bin\Release\netcoreapp3.1\Core.pdb
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\obj\Release\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\obj\Release\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\obj\Release\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\obj\Release\netcoreapp3.1\Core.dll
+C:\Users\Ramal Abaszade\Source\Repos\StationRestaurantWebApp\Core\obj\Release\netcoreapp3.1\Core.pdb
